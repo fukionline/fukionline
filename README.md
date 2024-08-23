@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 
+- Knows: PHP, Batch (:P)
+- **Learning Rust**
+- Wants to learn: TBA
+- Interested in developing websites and programs.
 
 <!--
 **fukionline/fukionline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
