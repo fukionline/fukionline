@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/she
 - ⚡ Fun fact: TBA
 -->
+![Windows 2002 Cleveland](https://github.com/user-attachments/assets/dea35b1a-fa99-43e3-830f-84989fdde8d0)
