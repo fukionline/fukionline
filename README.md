@@ -2,6 +2,7 @@
 - Knows: PHP, Batch (:P)
 - **Learning Rust**
 - Wants to learn: TBA
+- Interested in the vintage and obscure.
 - Interested in developing websites and programs.
 
 <!--
